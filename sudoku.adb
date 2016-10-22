@@ -1,6 +1,6 @@
 ---------------------------------------
 --           Sudoku Solver           --
--- By: Nicholas Macedo (0889469)     --
+-- By: Nicholas Macedo               --
 -- Program to solve sudoku given     --
 -- via file. Output to file & stdio. --
 ---------------------------------------
